@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Harman_movie\\MovieApp7_3\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login.png",
+        "source": "C:\\Harman_movie\\MovieApp7_3\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\login.png"
+    },
+    {
+        "merged": "C:\\Harman_movie\\MovieApp7_3\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_.png",
+        "source": "C:\\Harman_movie\\MovieApp7_3\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\search_.png"
+    },
+    {
+        "merged": "C:\\Harman_movie\\MovieApp7_3\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\running.png",
+        "source": "C:\\Harman_movie\\MovieApp7_3\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\running.png"
+    },
+    {
+        "merged": "C:\\Harman_movie\\MovieApp7_3\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logout.png",
+        "source": "C:\\Harman_movie\\MovieApp7_3\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Harman_movie\\MovieApp7_3\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\upcoming.png",
+        "source": "C:\\Harman_movie\\MovieApp7_3\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\upcoming.png"
+    },
+    {
+        "merged": "C:\\aa\\MovieApp7_3\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settings.png",
+        "source": "C:\\aa\\MovieApp7_3\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Harman_movie\\MovieApp7_3\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\filter.png",
+        "source": "C:\\Harman_movie\\MovieApp7_3\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\filter.png"
+    },
+    {
+        "merged": "C:\\aa\\MovieApp7_3\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\filter.png",
+        "source": "C:\\aa\\MovieApp7_3\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\filter.png"
+    },
+    {
+        "merged": "C:\\Harman_movie\\MovieApp7_3\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Harman_movie\\MovieApp7_3\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\aa\\MovieApp7_3\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login.png",
+        "source": "C:\\aa\\MovieApp7_3\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\login.png"
+    },
+    {
+        "merged": "C:\\aa\\MovieApp7_3\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_.png",
+        "source": "C:\\aa\\MovieApp7_3\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\search_.png"
+    },
+    {
+        "merged": "C:\\aa\\MovieApp7_3\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\running.png",
+        "source": "C:\\aa\\MovieApp7_3\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\running.png"
+    },
+    {
+        "merged": "C:\\Harman_movie\\MovieApp7_3\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settings.png",
+        "source": "C:\\Harman_movie\\MovieApp7_3\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\aa\\MovieApp7_3\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\aa\\MovieApp7_3\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\aa\\MovieApp7_3\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\upcoming.png",
+        "source": "C:\\aa\\MovieApp7_3\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\upcoming.png"
+    },
+    {
+        "merged": "C:\\aa\\MovieApp7_3\\MovieApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logout.png",
+        "source": "C:\\aa\\MovieApp7_3\\MovieApp1\\app\\src\\main\\res\\drawable-hdpi\\logout.png"
+    }
+]

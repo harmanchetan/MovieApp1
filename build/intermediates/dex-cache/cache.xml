@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\aa\MovieApp7_3\MovieApp1\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\aa\MovieApp7_3\MovieApp1\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_cf26b0a510131b1d327dd454e6278d9ca52873b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\1691707\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\aa\MovieApp7_3\MovieApp1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_a3e4b7e99bb85f4f8cd20bcad8377aa010cb7694.jar" />
+    </item>
+
+</items>
